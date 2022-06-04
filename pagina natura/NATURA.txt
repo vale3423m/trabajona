@@ -1,0 +1,21 @@
+<html> 
+  <head> 
+     <title> NATURA </title> 
+  </HEAD>
+     <frameset ROWS="100,*">
+        <frame src="nombre natura.html"/>
+       <frameset rows="100,*">
+          <frame src="info de natura.html"/>
+       <frameset COLS="200,*">
+          <frame src="natura menu.html">
+          <frame src="na.html" name="uno">
+      </framset>
+    
+  <noframe>
+   <body> su navegador no soporta frames</body>
+  </notframe>
+
+ </framset>
+
+  
+</html>
